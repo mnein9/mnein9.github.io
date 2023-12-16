@@ -1,9 +1,4 @@
-<style>
-  .large-text {
-    font-size: 16px;
-  }
-</style>
-<p GitHub Pages Portfolio Assignment="large-text">This text has an increased font size.</p>
+<b> GitHub Pages Portfolio Assignment </b>
 
 
 Description
